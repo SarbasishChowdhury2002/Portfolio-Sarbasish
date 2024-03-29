@@ -1059,20 +1059,24 @@ body {
         padding: 10px;
         margin-left: 0px;
     }
+
     .bar .info .addhtml::before{
-        content: "90%";
-    }
-    .bar .info .addcss::before{
         content: "80%";
     }
-    .bar .info .addpy::before{
+    .bar .info .addcss::before{
         content: "75%";
     }
+    .bar .info .addpy::before{
+        content: "70%";
+    }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "80%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "70%";
+    }
+    .bar .info .addjs::before{
+        content: "60%";
     }
 
     /*project*/
@@ -1249,19 +1253,22 @@ body {
         left: 25%;
     }
     .bar .info .addhtml::before{
-        content: "90%";
-    }
-    .bar .info .addcss::before{
         content: "80%";
     }
-    .bar .info .addpy::before{
+    .bar .info .addcss::before{
         content: "75%";
     }
+    .bar .info .addpy::before{
+        content: "70%";
+    }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "80%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "70%";
+    }
+    .bar .info .addjs::before{
+        content: "60%";
     }
 
     /*project*/
