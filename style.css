@@ -1061,19 +1061,19 @@ body {
     }
 
     .bar .info .addhtml::before{
-        content: "80%";
+        content: "70%";
     }
     .bar .info .addcss::before{
-        content: "75%";
+        content: "70%";
     }
     .bar .info .addpy::before{
         content: "70%";
     }
     .bar .info .addjava::before{
-        content: "80%";
+        content: "85%";
     }
     .bar .info .addc::before{
-        content: "70%";
+        content: "85%";
     }
     .bar .info .addjs::before{
         content: "60%";
@@ -1253,19 +1253,19 @@ body {
         left: 25%;
     }
     .bar .info .addhtml::before{
-        content: "80%";
+        content: "70%";
     }
     .bar .info .addcss::before{
-        content: "75%";
+        content: "70%";
     }
     .bar .info .addpy::before{
         content: "70%";
     }
     .bar .info .addjava::before{
-        content: "80%";
+        content: "85%";
     }
     .bar .info .addc::before{
-        content: "70%";
+        content: "75%";
     }
     .bar .info .addjs::before{
         content: "60%";
