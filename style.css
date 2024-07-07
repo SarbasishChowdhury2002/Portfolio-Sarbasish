@@ -399,11 +399,11 @@ body {
 }
 
 .progress-line.html span::after {
-    content: "80%";
+    content: "70%";
 }
 
 .progress-line.css span::after {
-    content: "75%";
+    content: "70%";
 }
 
 .progress-line.javascript span::after {
@@ -419,7 +419,7 @@ body {
 }
 
 .progress-line.cpls span::after {
-    content: "70%";
+    content: "85%";
 }
 
 .progress-line span::before {
