@@ -362,11 +362,11 @@ body {
 }
 
 .progress-line.html span {
-    width: 80%;
+    width: 70%;
 }
 
 .progress-line.css span {
-    width: 75%;
+    width: 70%;
 }
 
 .progress-line.javascript span {
@@ -382,7 +382,7 @@ body {
 }
 
 .progress-line.cpls span {
-    width: 70%;
+    width: 85%;
 }
 
 .progress-line span::after {
