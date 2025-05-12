@@ -361,27 +361,31 @@ body {
     transform-origin: left;
 }
 
-.progress-line.html span {
-    width: 70%;
+.progress-line.dsa span {
+    width: 80%;
 }
 
 .progress-line.css span {
-    width: 70%;
+    width: 75%;
 }
 
 .progress-line.javascript span {
-    width: 60%;
-}
-
-.progress-line.python span {
     width: 70%;
 }
 
+.progress-line.python span {
+    width: 75%;
+}
+
 .progress-line.java span {
-    width: 85%;
+    width: 90%;
 }
 
 .progress-line.cpls span {
+    width: 90%;
+}
+
+.progress-line.sql span {
     width: 85%;
 }
 
@@ -398,29 +402,34 @@ body {
     opacity: 0;
 }
 
-.progress-line.html span::after {
-    content: "70%";
+.progress-line.dsa span::after {
+    content: "80%";
 }
 
 .progress-line.css span::after {
-    content: "70%";
+    content: "75%";
 }
 
 .progress-line.javascript span::after {
-    content: "60%";
-}
-
-.progress-line.python span::after {
     content: "70%";
 }
 
+.progress-line.python span::after {
+    content: "75%";
+}
+
 .progress-line.java span::after {
-    content: "85%";
+    content: "90%";
 }
 
 .progress-line.cpls span::after {
+    content: "90%";
+}
+
+.progress-line.sql span::after {
     content: "85%";
 }
+
 
 .progress-line span::before {
     content: "";
