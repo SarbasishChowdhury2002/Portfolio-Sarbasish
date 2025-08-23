@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-    strings: ["Programming and DSA" , "Core Java + SpringBoot + MySQL" , "Machine Learning"],
+    strings: ["Coding and DSA" , "Core Java + SpringBoot + MySQL" , "Cryptography", "Machine Learning"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
